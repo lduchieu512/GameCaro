@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bbd578f-a574-4336-aaa4-eaca22bdce40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Network_Lan_Supportt/.idea/Network_Lan_Supportt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Network_Lan_Supportt/Network_Lan_Supportt/.idea/Network_Lan_Supportt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Network_Lan_Supportt/Network_Lan_Supportt/Source/.idea/Source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Network_Lan_Supportt/Network_Lan_Supportt/Source/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Network_Lan_Supportt/Network_Lan_Supportt/Source/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../caro-game-client-main/caro-game-client-main/caro-game-client-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caro-game-server-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/DaoNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/common/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/controller/FPTServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/models/CongViec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/models/Nganh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/models/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/models/TotNghiep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/models/Truong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/ICongViecRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/INganhRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/ISinhVienRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/ITotNghiepRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/ITruongRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/Impl/CongViecRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/Impl/NganhRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/Impl/SinhVienRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/Impl/TotNghiepRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/repositories/Impl/TruongRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/ICongViecService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/INganhService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/ISinhVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/ITotNghiepService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/ITruongService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/Impl/CongViecService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/Impl/NganhService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/Impl/SinhVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/Impl/TotNghiepService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/java/service/Impl/TruongService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/webapp/view/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/Bai_tap/bai_thi_thu_fpt/src/main/webapp/view/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/JWEB.M.L101 - Source code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/lab1_interllij.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/repository/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/JWEB.M.L201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/baiCuoiKi/.idea/baiCuoiKi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/thamkhaojavaweb/bai_tap_ss12/src/main/java/controller/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/LeDucHieu_20IT369_Lab06/NgoThiNgocMan_20IT108-Lab06/.idea/NgoThiNgocMan_20IT108-Lab06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/LeDucHieu_20it369_lab4/.idea/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/LeDucHieu_20it369_lab4/ChatP2P-Lab4/ChatP2P-Lab4/.idea/ChatP2P-Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/NguyenThiLamAnh_20IT028_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/NguyenThiLamAnh_20IT028_7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/QIKI_Web_SearchEngine-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baiTapLab/lab7 (1)/lab7-PhanVietHuong/QIKI_Web_SearchEngine-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Chat/Chat/Chat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/DeTai_EmailClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/DeTai_EmailClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/Source Code email client/Source Code email client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_mang/baitap/testChat/testChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/tesst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_2/bai2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_2/bai2_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_3/bai1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_3/bai_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_3/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_4/bai1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_4/bai_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/pythonProject/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/pythonProject/tic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/pythonProject/tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lap_trinh_python/QuanLySinhVien/QuanLySinhVien/.idea/QuanLySinhVien.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/JWEB.M.L101 - Source code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/JWEB.M.L101 - Source code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/JWEB.M.L101 - Source code/target/m2e-wtp/web-resources/META-INF/maven/com.fa/NWEB_M_L101/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/JWEB.M.L101 - Source code/target/m2e-wtp/web-resources/META-INF/maven/com.fa/NWEB_M_L101/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/controller/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/model/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/repository/impl/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/repository/impl/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L101/lab1_interllij/src/main/java/repository/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/DepartmentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/DepartmentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/EmployeeDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/EmployeeDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/filter/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/filter/AuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/AddEmployeeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/AddEmployeeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/HomePageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/HomePageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/ListEmployeesServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/ListEmployeesServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/utils/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/utils/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/utils/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chuyen_de_1_JavaWeb/JWEB-20220825T062732Z-001/JWEB/2_Labs/JWEB.M.L201/JWEB.M.L201 - Source code/target/classes/fa/training/utils/Log4J.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 1.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 4.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 5.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 6.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 7.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 8.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/Bài 9.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_mang/bài 3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/bai_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/phan_1/bai1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lap_trinh_python/Bai_Tap/chuong2/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JA1fqP6GXXWuCowdXQ8Ri2xhmY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/ki_1_nam_3/DACS4/Network_Lan_Supportt",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ki_1_nam_3\DACS4\caro-game-server-main\caro-game-server-main\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Server" />
+      <module name="caro-game-server-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bbd578f-a574-4336-aaa4-eaca22bdce40" name="Changes" comment="" />
+      <created>1671506184175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671506184175</updated>
+      <workItem from="1671506187453" duration="14000" />
+      <workItem from="1671506212122" duration="5054000" />
+      <workItem from="1671612075258" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/ServerThread.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dao/DAO.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dao/DaoNew.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
